@@ -1,8 +1,8 @@
-Rhuan Leonardo Baffero Marques,
+<h1 align="center">Rhuan Leonardo Baffero Marques</h1>
 
-
--teste teste teste
--batata é bom
+--> 📅 18 anos</p>
+--> 💻 Cursando faculdade de Sistemas de Informação na UNA Uberlândia</p>
+--> 👨‍💻 Experiencia com maratonas de programação desde 2017 
 
 <!--
 **Rhuan-Marques/Rhuan-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
